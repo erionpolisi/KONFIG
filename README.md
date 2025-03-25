@@ -1,1 +1,1 @@
-# KONFIG
+readme in cloned repo
